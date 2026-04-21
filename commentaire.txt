@@ -1,3 +1,0 @@
-J'ai laissée le texte "respirer", j'ai utilisée flex-wrap pour que les éléments se rangent tout seuls : ils se mettent côte à côte quand il y a de la place et s'empilent sur mobile.
-Je n'ai fixé aucune hauteur pour que les blocs s'étirent selon la longueur du texte, ce qui évite les débordements moches. 
-Enfin, j'ai limitée la largeur du contenu à une taille confortable pour les yeux afin que la lecture reste agréable, même sur un écran géant.
